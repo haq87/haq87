@@ -60,6 +60,6 @@
 
 
 <hr/>
-
-[![Mohd Dhiyaulhaq GitHub stats](https://github-readme-stats.vercel.app/api?username=haq87)](https://github.com/haq87/github-readme-stats)
-
+<!--
+- [![Mohd Dhiyaulhaq GitHub stats](https://github-readme-stats.vercel.app/api?username=haq87)](https://github.com/haq87/github-readme-stats)
+-->
