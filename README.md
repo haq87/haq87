@@ -6,7 +6,7 @@
     ·
     <a href="mailto:dhiyaulhaq87@gmail.com">Email</a>
     ·
-    <a href="https://linkedin.com/in/mohd-dhiyaulhaq">LinkedIn</a>
+    <a href="https://linkedin.com/in/mohddhiyaulhaq">LinkedIn</a>
     ·
     <a href="https://facebook.com/haq87">Facebook</a>
     ·
